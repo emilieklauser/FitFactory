@@ -1,0 +1,48 @@
+div {
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+body 
+ {
+    font-family: Arial, sans-serif;
+    line-height: 1.3;
+    background-color: floralwhite;
+    color: palevioletred;
+}
+ 
+h1 
+ {
+    font-size: 2.5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 20px;
+}
+
+h2
+{
+    font-size: 1.8rem; 
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 10px;
+    
+    
+}
+
+p
+{
+    font-size: 0.9rem;
+    margin-bottom: 20px;
+    line-height: 1.6;
+    max-width: 900px;
+}
+
+
+
+footer-image
+{ 
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+
+
+}
